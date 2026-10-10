@@ -1,0 +1,6 @@
+raw/
+~$*
+*.docx
+*.har
+__pycache__/
+.env

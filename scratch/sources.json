@@ -1,0 +1,655 @@
+[
+ {
+  "url": "https://www.freecodecamp.org/news/learn-n8n-to-design-develop-and-deploy-production-grade-ai-agents",
+  "domain": "www.freecodecamp.org",
+  "title": "Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents",
+  "pub_date": 1765411200.0,
+  "attribution": "www.freecodecamp.org",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 0
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 0
+   }
+  ],
+  "snippet": "December 11, 2025 / #n8n  LEARN N8N TO DESIGN, DEVELOP, AND DEPLOY PRODUCTION-GRADE AI AGENTS  Image: Beau Carnes Beau Carnes  Image: Learn n8n to Design, Develop, and Deploy Production-Grade AI Agen...",
+  "pub_date_iso": "2025-12-11",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/",
+  "domain": "www.freecodecamp.org",
+  "title": "Create Scalable AI Automations with n8n",
+  "pub_date": 1791504000.0,
+  "attribution": "www.freecodecamp.org",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 1
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 1
+   }
+  ],
+  "snippet": "October 9, 2026 / #n8n  CREATE SCALABLE AI AUTOMATIONS WITH N8N  Image: Beau Carnes Beau Carnes  Most automation tutorials show you how to connect two simple apps and call it a day. But building work...",
+  "pub_date_iso": "2026-10-09",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://www.freecodecamp.org/news/build-complex-workflows-with-n8n-and-master-ai-integration",
+  "domain": "www.freecodecamp.org",
+  "title": "Build Complex Workflows with n8n & Master AI Integration",
+  "pub_date": 1762992000.0,
+  "attribution": "www.freecodecamp.org",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 2
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 2
+   }
+  ],
+  "snippet": "November 13, 2025 / #n8n  BUILD COMPLEX WORKFLOWS WITH N8N & MASTER AI INTEGRATION  Image: Beau Carnes Beau Carnes  Image: Build Complex Workflows with n8n & Master AI Integration  n8n is an open-sou...",
+  "pub_date_iso": "2025-11-13",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=UIf-SlmMays",
+  "domain": "www.youtube.com",
+  "title": "n8n Tutorial \u2013 Zero to Hero Course - YouTube",
+  "pub_date": 1765411200.0,
+  "attribution": "www.youtube.com",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "youtube",
+    "ref_index": 32
+   }
+  ],
+  "pub_date_iso": "2025-12-11",
+  "in_answer_text": true,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=4BVTkqbn_tY",
+  "domain": "www.youtube.com",
+  "title": "n8n Beginner Course (1/9) - Introduction to Automation - YouTube",
+  "pub_date": 1718755200.0,
+  "attribution": "www.youtube.com",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "youtube",
+    "ref_index": 33
+   }
+  ],
+  "pub_date_iso": "2024-06-19",
+  "in_answer_text": true,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://support.n8n.io/article/learning-resources",
+  "domain": "support.n8n.io",
+  "title": "FAQs - General Tips - Learning resources | n8n Help Center",
+  "pub_date": 1754502740.0,
+  "attribution": "support.n8n.io",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 3
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 3
+   }
+  ],
+  "snippet": "LEARNING RESOURCES  New to n8n, or want to go deeper? Here's where to start \u2b07\ufe0f  Docs: the best starting point for setup, node documentation, and concepts.  Academy: interactive, hands-on courses with...",
+  "pub_date_iso": "2025-08-06",
+  "in_answer_text": true,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://developereducators.com/tutorials/n8n/",
+  "domain": "developereducators.com",
+  "title": "Best n8n YouTube Channels for Tutorials in 2026 (137 creators)",
+  "attribution": "developereducators.com",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 4
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 4
+   }
+  ],
+  "snippet": "AI & Machine Learning  LEARN N8N \u2014 BEST YOUTUBE CHANNELS  YouTube channels teaching n8n, the open-source workflow automation platform. Learn to build AI agents, automate business processes, and conne...",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://developereducators.com/roadmap/n8n/",
+  "domain": "developereducators.com",
+  "title": "Learn n8n: A Free YouTube Roadmap (2026)",
+  "attribution": "developereducators.com",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 5
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 5
+   }
+  ],
+  "snippet": "Roadmap  LEARN N8N \u2014 FREE VIDEO ROADMAP  A step-by-step path through the best free n8n videos on YouTube \u2014 beginner to advanced, in the order that actually makes sense. YouTube channels teaching n8n,...",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://natokhd.com/video/n8n-full-course-masterclass-2026-part-12-installation-core-nodes-data-error-handling/HaSaDsn3AMg",
+  "domain": "natokhd.com",
+  "title": "n8n Full Course Masterclass 2026 - Part 1/2 | Installation, Core Nodes, Data, & Error Handling | NatokHD",
+  "pub_date": 1780876800.0,
+  "attribution": "natokhd.com",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 6
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 6
+   }
+  ],
+  "snippet": "n8n Full Course Masterclass 2026 - Part 1/2 | Installation, Core Nodes, Data, & Error Handling  N8N FULL COURSE MASTERCLASS 2026 - PART 1/2 | INSTALLATION, CORE NODES, DATA, & ERROR HANDLING  GenAI U...",
+  "pub_date_iso": "2026-06-08",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-n8n-beginner-course-513875",
+  "domain": "www.classcentral.com",
+  "title": "Free Video: n8n Beginner Course - Introduction to Automation and Workflow Management from n8n | Class Central",
+  "attribution": "www.classcentral.com",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 7
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 7
+   }
+  ],
+  "snippet": "N8N BEGINNER COURSE - INTRODUCTION TO AUTOMATION AND WORKFLOW MANAGEMENT  n8n via YouTube [Button: Help ]  3 reviews  *   * [Button: Add to list ] * [Button: Mark complete ]  * Write review  Start le...",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://www.classcentral.com/institution/n8n",
+  "domain": "www.classcentral.com",
+  "title": "50+ Top n8n Online Courses [2026] | Class Central",
+  "attribution": "www.classcentral.com",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 10
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 10
+   }
+  ],
+  "snippet": "Free Online  N8N COURSES  Follow 6  53 courses  Showing 53 courses  Filter  Sort by Relevancy  [Select]  Filter by [Button: Clear All]  Filters  1.     1. [Input] Free course (53) 2. Level 1. [Input]...",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-how-to-build-ai-agents-in-n8n-for-beginners-full-n8n-guide-489920",
+  "domain": "www.classcentral.com",
+  "title": "Free Video: How to Build AI Agents in n8n for Beginners - Full n8n Guide from AI Foundations | Class Central",
+  "attribution": "www.classcentral.com",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 12
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 12
+   }
+  ],
+  "snippet": "HOW TO BUILD AI AGENTS IN N8N FOR BEGINNERS - FULL N8N GUIDE  AI Foundations via YouTube [Button: Help ]  0 reviews  *   * [Button: Add to list ] * [Button: Mark complete ]  * Write review  Start lea...",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-n8n-course-for-beginners-build-complex-workflows-master-ai-integration-501011",
+  "domain": "www.classcentral.com",
+  "title": "Free Video: n8n Course for Beginners - Build Complex Workflows and Master AI Integration from YouTube | Class Central",
+  "attribution": "www.classcentral.com",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 14
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 14
+   }
+  ],
+  "snippet": "N8N COURSE FOR BEGINNERS - BUILD COMPLEX WORKFLOWS AND MASTER AI INTEGRATION  via YouTube [Button: Help ]  3 reviews  *   * [Button: Add to list ] * [Button: Mark complete ]  * Write review  Start le...",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://n8n.io/ai-agents/",
+  "domain": "n8n.io",
+  "title": "Build Custom AI Agents With Logic & Control | n8n Automation Platform",
+  "attribution": "n8n.io",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 8
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 8
+   }
+  ],
+  "snippet": "AI AGENT VIDEO TUTORIALS PREPARE TO BE AI-MAZED  Watch our community\u2019s most popular videos on building AI agents.  BUILDING AI AGENTS: CHAT TRIGGER, MEMORY, AND SYSTEM/USER MESSAGES EXPLAINED  Welcome...",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://learnforge.dev/blog/best-n8n-course-2026/",
+  "domain": "learnforge.dev",
+  "title": "Best n8n Course in 2026: Free vs Paid Options Compared | LearnForge",
+  "pub_date": 1787011200.0,
+  "attribution": "learnforge.dev",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 9
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 9
+   }
+  ],
+  "snippet": "No-Code & AI  BEST N8N COURSE IN 2026: FREE VS PAID OPTIONS COMPARED  Most \"best n8n course\" articles are written by affiliate marketers who've never opened the courses they recommend. This one isn't...",
+  "pub_date_iso": "2026-08-18",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://community.n8n.io/t/n8n-tutorial-for-beginners-2026-part-1-build-your-first-ai-workflow/261168?tl=en",
+  "domain": "community.n8n.io",
+  "title": "N8n Tutorial for Beginners (2026) | Part 1: Build Your First AI Workflow - Built with n8n - n8n Community",
+  "pub_date": 1770249600.0,
+  "attribution": "community.n8n.io",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 11
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 11
+   }
+  ],
+  "snippet": "N8N TUTORIAL FOR BEGINNERS (2026) | PART 1: BUILD YOUR FIRST AI WORKFLOW  Built with n8n  Msquare_Automation February 5, 2026, 4:17pm 1  This beginner-friendly n8n tutorial will help you understand h...",
+  "pub_date_iso": "2026-02-05",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://community.n8n.io/c/tutorials/28/l/top",
+  "domain": "community.n8n.io",
+  "title": "Tutorials - n8n Community",
+  "attribution": "community.n8n.io",
+  "ref_ids": [
+   {
+    "turn_index": 364781,
+    "ref_type": "search",
+    "ref_index": 13
+   },
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 13
+   }
+  ],
+  "snippet": "n8n Community  TUTORIALS  Tema  |  | Respuestas  | Vistas  | Actividad --- | --- | --- | --- | --- Beginner Course (1/9) - Introduction to Automation English \ud83c\uddec\ud83c\udde7 course-beginner \u25b6 thumbnail This video...",
+  "in_answer_text": false,
+  "in_safe_urls": true
+ },
+ {
+  "url": "https://community.n8n.io/t/how-to-build-ai-agents-in-n8n-for-beginners-full-guide-nocode/183469?tl=en&utm_source=chatgpt.com",
+  "domain": "n8n.io",
+  "title": "How to Build AI Agents in n8n for Beginners! (Full Guide - NoCode) - English \ud83c\uddec\ud83c\udde7 - n8n Community",
+  "pub_date": 1757203200.0,
+  "attribution": "n8n.io",
+  "snippet": "HOW TO BUILD AI AGENTS IN N8N FOR BEGINNERS! (FULL GUIDE - NOCODE)  Tutorials English \ud83c\uddec\ud83c\udde7  core, workflow-building  alirezachegini September 7, 2025, 10:57am 1  In this video, learn how to create an A...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 20
+   }
+  ],
+  "pub_date_iso": "2025-09-07",
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://community.n8n.io/t/first-ai-agent-for-n8n-beginners-non-techies-friendly-tutorial/149769",
+  "domain": "n8n.io",
+  "title": "First AI Agent for n8n Beginners [Non-Techies Friendly Tutorial] - English \ud83c\uddec\ud83c\udde7 - n8n Community",
+  "pub_date": 1752537600.0,
+  "attribution": "n8n.io",
+  "snippet": "FIRST AI AGENT FOR N8N BEGINNERS [NON-TECHIES FRIENDLY TUTORIAL]  Tutorials English \ud83c\uddec\ud83c\udde7  automatewithmarc July 15, 2025, 8:03am 1  In this 25\u2011minute walkthrough, I\u2019ll guide you through the essentials...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 24
+   }
+  ],
+  "pub_date_iso": "2025-07-15",
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://community.n8n.io/t/introduction-to-n8n/230666?tl=pt_BR&utm_source=chatgpt.com",
+  "domain": "n8n.io",
+  "title": "Introduction to N8N - Docs & Tutorials - n8n Community",
+  "pub_date": 1764806400.0,
+  "attribution": "n8n.io",
+  "snippet": "IMAGE: :BOOKS:WHERE TO LEARN N8N  OFFICIAL RESOURCES  N8N Documentation: https://docs.n8n.io/  * Comprehensive guides for every node  * Best practices and examples  * API reference for custom nodes  N...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 26
+   }
+  ],
+  "pub_date_iso": "2025-12-04",
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://community.n8n.io/t/n8n-tutorial-what-is-n8n-and-how-to-automate-anything-no-code/228297",
+  "domain": "n8n.io",
+  "title": "N8n Tutorial: What is n8n and How To Automate Anything (No Code) - English \ud83c\uddec\ud83c\udde7 - n8n Community",
+  "pub_date": 1764374400.0,
+  "attribution": "n8n.io",
+  "snippet": "N8N TUTORIAL: WHAT IS N8N AND HOW TO AUTOMATE ANYTHING (NO CODE)  Tutorials English \ud83c\uddec\ud83c\udde7  proflead November 29, 2025, 10:09am 1  Automate your daily tasks with n8n \u2013 the free, open-source tool that let...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 30
+   }
+  ],
+  "pub_date_iso": "2025-11-29",
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://natokhd.com/video/n8n-tutorial-for-beginners-2026-build-ai-automations-step-by-step-full-course/pkSu5HW2RWs",
+  "domain": "natokhd.com",
+  "title": "n8n course for beginner (2026) | NatokHD",
+  "pub_date": 1789084800.0,
+  "attribution": "natokhd.com",
+  "snippet": "n8n course for beginner (2026)  N8N COURSE FOR BEGINNER (2026)  Uzair Wahab20 subscribers  Share  502 views  Sep 11, 2026  1:34:52  Master n8n and AI automation from scratch in this complete 2026 beg...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 15
+   }
+  ],
+  "pub_date_iso": "2026-09-11",
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://natokhd.com/video/n8n-course-for-beginners-build-complex-workflows-master-ai-integration/GIZzRGYpCbM",
+  "domain": "natokhd.com",
+  "title": "n8n Course for Beginners \u2013 Build Complex Workflows & Master AI Integration | NatokHD",
+  "pub_date": 1762905600.0,
+  "attribution": "natokhd.com",
+  "snippet": "n8n Course for Beginners \u2013 Build Complex Workflows & Master AI Integration  N8N COURSE FOR BEGINNERS \u2013 BUILD COMPLEX WORKFLOWS & MASTER AI INTEGRATION  freeCodeCamp.org  Share  346.5K views  Nov 12,...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 19
+   }
+  ],
+  "pub_date_iso": "2025-11-12",
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-n8n-crash-course-in-3-hours-complete-tutorial-for-beginners-455776",
+  "domain": "classcentral.com",
+  "title": "Free Video: n8n Crash Course - Complete Tutorial for Beginners from Data Science with Harshit | Class Central",
+  "attribution": "classcentral.com",
+  "snippet": "N8N CRASH COURSE - COMPLETE TUTORIAL FOR BEGINNERS  Data Science with Harshit via YouTube [Button: Help ]  0 reviews  DETAILS  Image  [Button: Play Course Trailer ]  Start learning  * Provider  YouTu...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 16
+   }
+  ],
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-building-ai-agents-in-n8n-short-course-for-complete-beginners-480297",
+  "domain": "classcentral.com",
+  "title": "Free Video: Building AI Agents in n8n - Short Course for Complete Beginners from Elvis Saravia | Class Central",
+  "attribution": "classcentral.com",
+  "snippet": "BUILDING AI AGENTS IN N8N - SHORT COURSE FOR COMPLETE BEGINNERS  Elvis Saravia via YouTube [Button: Help ]  0 reviews  *   * [Button: Add to list ] * [Button: Mark complete ]  * Write review  Start l...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 21
+   }
+  ],
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-n8n-full-tutorial-building-ai-agents-in-2025-for-beginners-489930",
+  "domain": "classcentral.com",
+  "title": "Free Video: N8N Full Tutorial - Building AI Agents in 2025 for Beginners from AI Foundations | Class Central",
+  "attribution": "classcentral.com",
+  "snippet": "N8N FULL TUTORIAL - BUILDING AI AGENTS IN 2025 FOR BEGINNERS  AI Foundations via YouTube [Button: Help ]  0 reviews  *   * [Button: Add to list ] * [Button: Mark complete ]   DETAILS  Image  [Button:...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 22
+   }
+  ],
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-n8n-tutorial-how-i-teach-beginners-to-build-ai-agents-no-code-490222",
+  "domain": "classcentral.com",
+  "title": "Free Video: n8n Tutorial - How to Build AI Agents with No Code for Beginners from Bart Slodyczka | Class Central",
+  "attribution": "classcentral.com",
+  "snippet": "N8N TUTORIAL - HOW TO BUILD AI AGENTS WITH NO CODE FOR BEGINNERS  Bart Slodyczka via YouTube [Button: Help ]  0 reviews  *   * [Button: Add to list ] * [Button: Mark complete ]   DETAILS  Image  [But...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 23
+   }
+  ],
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-n8n-quick-start-build-your-first-workflow-2025-461634",
+  "domain": "classcentral.com",
+  "title": "Free Video: n8n Quick Start - Build Your First Workflow [2025] from n8n | Class Central",
+  "attribution": "classcentral.com",
+  "snippet": "N8N QUICK START - BUILD YOUR FIRST WORKFLOW [2025]  n8n via YouTube [Button: Help ]  1 review  *   * [Button: Add to list ] * [Button: Mark complete ]  * Write review  Start learning Write review  Af...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 25
+   }
+  ],
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-n8n-for-beginners-build-your-first-no-code-workflow-hostinger-vps-setup-484191",
+  "domain": "classcentral.com",
+  "title": "Free Video: n8n for Beginners - Build Your First No-Code Workflow from Kevin Stratvert | Class Central",
+  "attribution": "classcentral.com",
+  "snippet": "N8N FOR BEGINNERS - BUILD YOUR FIRST NO-CODE WORKFLOW  Kevin Stratvert via YouTube [Button: Help ]  0 reviews  DETAILS  Image  [Button: Play Course Trailer ]  Start learning  * Provider  YouTube [But...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 27
+   }
+  ],
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://www.classcentral.com/course/youtube-master-n8n-in-2-hours-complete-beginner-s-guide-for-2025-489791",
+  "domain": "classcentral.com",
+  "title": "Free Video: Master N8N in 2 Hours - Complete Beginner's Guide for 2025 from Jono Catliff | Class Central",
+  "attribution": "classcentral.com",
+  "snippet": "MASTER N8N IN 2 HOURS - COMPLETE BEGINNER'S GUIDE FOR 2025  Jono Catliff via YouTube [Button: Help ]  1 review  *   * [Button: Add to list ] * [Button: Mark complete ]  * Write review  Start learning...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 31
+   }
+  ],
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://growai.in/best-n8n-course-india-2026/",
+  "domain": "growai.in",
+  "title": "Best N8N Course India 2026: Free vs Paid Learning Guide | GrowAI",
+  "pub_date": 1778284800.0,
+  "attribution": "growai.in",
+  "snippet": "BEST N8N COURSE IN INDIA 2026: FREE VS PAID \u2014 HOW TO LEARN AUTOMATION FAST  May 9, 2026  Image  BEST N8N COURSE IN INDIA 2026: FREE VS PAID \u2014 HOW TO LEARN AUTOMATION FAST  What is the best way to lea...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 17
+   }
+  ],
+  "pub_date_iso": "2026-05-09",
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://lalittaparia.online/tutorials/n8n-tutorial-beginners-complete-guide-2026",
+  "domain": "lalittaparia.online",
+  "title": "n8n Tutorial for Beginners: The Complete 2026 Guide \u2014 Lalit Taparia",
+  "pub_date": 1785715200.0,
+  "attribution": "lalittaparia.online",
+  "snippet": "N8N TUTORIAL FOR BEGINNERS: THE COMPLETE 2026 GUIDE  lalittaparia.online \u00b7 Aug 3, 2026 \u00b7 29 min read  In this guide  1. The order nobody gave you 2. Part 1 \u2014 the vocabulary 3. Part 2 \u2014 one thread, bu...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 18
+   }
+  ],
+  "pub_date_iso": "2026-08-03",
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://www.contentdistilled.com/2025/05/n8n-beginner-guide-essential-nodes-for.html",
+  "domain": "contentdistilled.com",
+  "title": "N8N Beginner Guide: Essential Nodes for Workflow Automation",
+  "pub_date": 1746748800.0,
+  "attribution": "contentdistilled.com",
+  "snippet": "N8N BEGINNER GUIDE: ESSENTIAL NODES FOR WORKFLOW AUTOMATION  on May 09, 2025  Based on a tutorial by N8N Official  iframe  Are you struggling to make sense of all the different nodes in N8N and wonde...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 28
+   }
+  ],
+  "pub_date_iso": "2025-05-09",
+  "in_answer_text": false,
+  "in_safe_urls": false
+ },
+ {
+  "url": "https://n8n.academy/",
+  "domain": "n8n.academy",
+  "title": "N8N.academy \u2014 Learn n8n no-code in one page",
+  "attribution": "n8n.academy",
+  "snippet": "N8N.academy \u00b7 The non-technical programme 5 modules \u00b7 24 lessons \u00b7 ~6h  N8N MADE POSSIBLE\u2026  The clearest n8n course on the internet. Every lesson embeds the Ultimate n8n video at the exact second \u2014 p...",
+  "ref_ids": [
+   {
+    "turn_index": 0,
+    "ref_type": "search",
+    "ref_index": 29
+   }
+  ],
+  "in_answer_text": false,
+  "in_safe_urls": false
+ }
+]
